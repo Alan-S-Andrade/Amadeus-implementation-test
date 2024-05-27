@@ -1,7 +1,7 @@
 # Amadeus - Implementation Developer Test
 
 ## Description
-This command-line utility processes data in XML and JSON formats, performs operations to calculate the average salary, identifies the highest paid employee, and sorts the employees by ID.
+This command-line utility processes data in XML and JSON formats, calculates the average salary, identifies the highest paid employee, and sorts the employees by ID.
 
 ## Requirements
 - C++ compiler (g++)
