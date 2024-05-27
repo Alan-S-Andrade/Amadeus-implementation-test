@@ -1,0 +1,26 @@
+<employees>
+    <employee>
+        <name>Chris Andrade</name>
+        <id>106</id>
+        <department>IT</department>
+        <salary>60000</salary>
+    </employee>
+    <employee>
+        <name>Maria Casas</name>
+        <id>107</id>
+        <department>Finance</department>
+        <salary>58000</salary>
+    </employee>
+    <employee>
+        <name>Francisco Salazar</name>
+        <id>108</id>
+        <department>Engineering</department>
+        <salary>62000</salary>
+    </employee>
+    <employee>
+        <name>Camilo Lopez</name>
+        <id>109</id>
+        <department>Research</department>
+        <salary>65000</salary>
+    </employee>
+</employees>

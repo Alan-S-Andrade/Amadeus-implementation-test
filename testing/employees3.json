@@ -1,0 +1,28 @@
+{
+    "employees": [
+        {
+            "name": "Chris Andrade",
+            "id": 106,
+            "department": "IT",
+            "salary": 60000
+        },
+        {
+            "name": "Leo Marin",
+            "id": 107,
+            "department": "Finance",
+            "salary": 58000
+        },
+        {
+            "name": "Pablo Rojas",
+            "id": 108,
+            "department": "Engineering",
+            "salary": 62000
+        },
+        {
+            "name": "Camila Cantero",
+            "id": 109,
+            "department": "Research",
+            "salary": 65000
+        }
+    ]
+}
