@@ -28,3 +28,9 @@ run:
 ```sh
 ./run.sh <xml|json> <input_filename>
 ```
+
+Example:
+
+```sh
+./run.sh json testing/employees1.json
+```
